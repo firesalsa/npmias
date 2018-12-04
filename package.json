@@ -1,0 +1,27 @@
+{
+  "name": "npmias",
+  "version": "1.0.0",
+  "description": "NPM commands and their aliases",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MillenialSource/npmias.git"
+  },
+  "keywords": [
+    "NPM",
+    "Node",
+    "documentation",
+    "JavaScript",
+    "reference",
+    "alias"
+  ],
+  "author": "Brian Thompson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MillenialSource/npmias/issues"
+  },
+  "homepage": "https://github.com/MillenialSource/npmias#readme"
+}
